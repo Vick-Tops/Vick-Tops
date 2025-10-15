@@ -36,8 +36,8 @@ I’m constantly learning, experimenting, and striving to improve my skills ever
 </div>
 
 ------------------------------------------------------------------------------------------
-
-⭐ *"Constantly evolving, learning, and building my path in technology."* ⭐ 
+<style>p{margin:auto;}</style>
+<p>⭐ *"Constantly evolving, learning, and building my path in technology."* ⭐</p> 
 
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazkza2dndWRpYXM4dDB6emltd3ZtMWcxY3gybGZobThmN3MxYjJucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gLFEUVlLAjabfwJEPX/giphy.gif" width="200"/>
